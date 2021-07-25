@@ -1,0 +1,8 @@
+Mi explicacion a mi hijo de 12 años..
+Variables: una variable es darle un valor a algo que vas a usar despues. 
+Strings: los string son como letras agrupadas entre comillas, tambien pueden ser numeros.
+Funciones (argumentos, return):los operadores son funciones, los operadores son operaciones.
+return: es pedir que te de una respuesta apenas la encuentre. los argumentos son la posibilidad de darle
+mas informacion.
+Declaraciones if: es como si alguien te pregunta SI pasa "esto" tu respuesta es "esta".
+Valores Booleanos (true, false): la compu piesa que hay negro o blanco, sin grises. verdadero o falso.
